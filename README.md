@@ -1,0 +1,2 @@
+# amos-openbox
+ // Configuration : Openbox
